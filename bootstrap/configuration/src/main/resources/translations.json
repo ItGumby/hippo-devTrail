@@ -1,0 +1,152 @@
+{
+  "hippo:templates":   {
+    "en":     {
+      "new-banner-folder": "new banner folder",
+      "new-banner-document": "new banner document",
+      "new-content-folder": "new content folder",
+      "new-news-document": "new news item",
+      "new-content-document": "new content document",
+      "new-resource-bundle": "new resource bundle",
+      "new-news-folder": "new news item folder",
+      "new-untranslated-folder": "new untranslated folder"
+    },
+    "nl":     {
+      "new-banner-folder": "nieuwe banner map",
+      "new-banner-document": "nieuwe banner",
+      "new-content-folder": "nieuwe contentmap",
+      "new-news-document": "nieuw nieuwsbericht",
+      "new-content-document": "nieuw content document",
+      "new-resource-bundle": "nieuwe resource bundle",
+      "new-news-folder": "nieuwe nieuwsmap",
+      "new-untranslated-folder": "nieuwe onvertaalde map"
+    },
+    "de":     {
+      "new-banner-folder": "Neuer Banner-Ordner",
+      "new-banner-document": "Neues Banner",
+      "new-content-folder": "Neuer Content-Ordner",
+      "new-news-document": "Neue News",
+      "new-content-document": "Neues Content-Document",
+      "new-resource-bundle": "Neues Resource-Bundle",
+      "new-news-folder": "Neuer News-Ordner",
+      "new-untranslated-folder": "Neuer nicht übersetzter Ordner"
+    },
+    "fr":     {
+      "new-banner-folder": "nouveau dossier bannière",
+      "new-banner-document": "nouvelle bannière",
+      "new-content-folder": "nouveau dossier contenu",
+      "new-news-document": "nouveau message d'info",
+      "new-content-document": "nouveau document contenu",
+      "new-resource-bundle": "nouveau resource bundle",
+      "new-news-folder": "nouveau dossier messages d'info",
+      "new-untranslated-folder": "nouveau dossier non traduit"
+    }
+  },
+  "hippo:types":   {
+    "gogreen:bannerdocument":     {
+      "en":       {
+        "gogreen:content": "Content",
+        "gogreen:title": "Title",
+        "jcr:name": "Banner",
+        "gogreen:link": "Link",
+        "gogreen:image": "Image"
+      },
+      "nl":       {
+        "gogreen:content": "Inhoud",
+        "gogreen:title": "Titel",
+        "jcr:name": "Banner",
+        "gogreen:link": "Link",
+        "gogreen:image": "Afbeelding"
+      },
+      "fr":       {
+        "gogreen:content": "Contenu",
+        "gogreen:title": "Titre",
+        "jcr:name": "Bannière",
+        "gogreen:link": "Lien",
+        "gogreen:image": "Image"
+      },
+      "de":       {
+        "gogreen:content": "Inhalt",
+        "gogreen:title": "Titel",
+        "jcr:name": "Banner",
+        "gogreen:link": "Link",
+        "gogreen:image": "Abbildung"
+      }
+    },
+    "gogreen:newsdocument":     {
+      "en":       {
+        "gogreen:source": "Source",
+        "gogreen:date": "Date",
+        "jcr:name": "News Item",
+        "gogreen:introduction": "Introduction",
+        "gogreen:content": "Content",
+        "gogreen:title": "Title",
+        "gogreen:author": "Author",
+        "gogreen:location": "Location",
+        "gogreen:image": "Image"
+      },
+      "nl":       {
+        "gogreen:source": "Bron",
+        "gogreen:date": "Datum",
+        "jcr:name": "Nieuwsbericht",
+        "gogreen:introduction": "Introductie",
+        "gogreen:content": "Inhoud",
+        "gogreen:title": "Titel",
+        "gogreen:author": "Auteur",
+        "gogreen:location": "Locatie",
+        "gogreen:image": "Afbeelding"
+      },
+      "de":       {
+        "gogreen:source": "Quelle",
+        "gogreen:date": "Datum",
+        "jcr:name": "News",
+        "gogreen:introduction": "Einführung",
+        "gogreen:content": "Inhalt",
+        "gogreen:title": "Titel",
+        "gogreen:author": "Verfasser",
+        "gogreen:location": "Standort",
+        "gogreen:image": "Abbildung"
+      },
+      "fr":       {
+        "gogreen:source": "Source",
+        "gogreen:date": "Date",
+        "jcr:name": "Message d'info",
+        "gogreen:introduction": "Introduction",
+        "gogreen:content": "Contenu",
+        "gogreen:title": "Titre",
+        "gogreen:author": "Auteur",
+        "gogreen:location": "Lieu",
+        "gogreen:image": "Image"
+      }
+    },
+    "gogreen:contentdocument":     {
+      "en":       {
+        "gogreen:content": "Content",
+        "gogreen:title": "Title",
+        "jcr:name": "Simple Document",
+        "gogreen:publicationdate": "Publication date",
+        "gogreen:introduction": "Introduction"
+      },
+      "nl":       {
+        "gogreen:content": "Inhoud",
+        "gogreen:title": "Titel",
+        "jcr:name": "Eenvoudig Document",
+        "gogreen:publicationdate": "Publicatiedatum",
+        "gogreen:introduction": "Introductie"
+      },
+      "fr":       {
+        "gogreen:content": "Contenu",
+        "gogreen:title": "Titre",
+        "jcr:name": "Document simple",
+        "gogreen:publicationdate": "Date de publication",
+        "gogreen:introduction": "Introduction"
+      },
+      "de":       {
+        "gogreen:content": "Inhalt",
+        "gogreen:title": "Titel",
+        "jcr:name": "Einfaches Dokument",
+        "gogreen:publicationdate": "Publikationsdatum",
+        "gogreen:introduction": "Einführung"
+      }
+    }
+  }
+}
