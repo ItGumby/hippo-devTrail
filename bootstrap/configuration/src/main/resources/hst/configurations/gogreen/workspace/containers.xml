@@ -19,7 +19,7 @@
         <sv:value>hst:containercomponent</sv:value>
       </sv:property>
       <sv:property sv:name="hst:lastmodified" sv:type="Date">
-        <sv:value>2016-10-21T14:13:20.479-06:00</sv:value>
+        <sv:value>2016-10-21T14:47:56.644-06:00</sv:value>
       </sv:property>
       <sv:property sv:name="hst:xtype" sv:type="String">
         <sv:value>HST.vBox</sv:value>
@@ -64,7 +64,7 @@
           <sv:value>700</sv:value>
           <sv:value>250</sv:value>
           <sv:value>#FFFFFF</sv:value>
-          <sv:value>on</sv:value>
+          <sv:value>off</sv:value>
           <sv:value>3000</sv:value>
         </sv:property>
         <sv:property sv:name="hst:template" sv:type="String">

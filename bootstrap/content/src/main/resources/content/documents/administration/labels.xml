@@ -229,9 +229,6 @@
         <sv:value>labels/homepage/homepage[2]</sv:value>
         <sv:value>labels/homepage/homepage</sv:value>
       </sv:property>
-      <sv:property sv:name="hippostd:holder" sv:type="String">
-        <sv:value>admin</sv:value>
-      </sv:property>
       <sv:property sv:name="hippostd:state" sv:type="String">
         <sv:value>draft</sv:value>
       </sv:property>

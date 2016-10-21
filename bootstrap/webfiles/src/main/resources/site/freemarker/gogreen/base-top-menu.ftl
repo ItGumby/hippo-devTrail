@@ -6,12 +6,7 @@
     <nav>
       <ul class="navigation" id="main-navigation">
       <#list menu.siteMenuItems as item>
-        <li>
-          <a href="<@hst.link link=item.hstLink/>"
-            <#if item.selected || item.expanded>class="activelink"</#if>
-            ><span class="label-nav">${item.name?html}</span>
-          </a>
-        </li>
+        <li><a href="<@hst.link link=item.hstLink/>" <#if item.selected || item.expanded>class="activelink"</#if>><span class="label-nav">${item.name?html}</span></a></li>
       </#list>
       </ul>
     </nav>

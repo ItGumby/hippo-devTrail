@@ -1,9 +1,6 @@
 <#include "../include/imports.ftl">
-
 <@hst.setBundle basename="essentials.global"/>
 <@hst.include ref="container"/>
-<p>base-footer.ftl</p>
-<hr/>
 <footer>
   <div class="footer">
 
