@@ -48,16 +48,17 @@
                 </ul>
               </nav>
             </div>
-            <div class="col-sm-5" id="top-search">
 
+            <div class="col-sm-5" id="top-search">
               <div class="searchbox">
-                <form action="search.html" method="get">
+                <form action="<@hst.link siteMapItemRefId="search" />" method="get">
                   <input type="text" class="searchbox-inputtext" id="searchbox-inputtext" name="query"
                     placeholder="Search" /> <label class="searchbox-icon" for="searchbox-inputtext"></label> <input
                     type="submit" class="searchbox-submit" value="Search" />
                 </form>
               </div>
             </div>
+
           </div>
         </div>
       </div>
