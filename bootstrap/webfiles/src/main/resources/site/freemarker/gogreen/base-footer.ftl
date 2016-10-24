@@ -13,8 +13,7 @@
             <div class="footer-content">
               <div class="footer-content-logo">
                 <a href="https://www.onehippo.com" target="_blank">
-                  <img src="<@hst.webfile path="/images/logo-hippo.png"/>"
-                  alt="onehippo.com" />
+                  <img src="<@hst.webfile path="/images/logo-hippo.png"/>" alt="onehippo.com" />
                 </a>
               </div>
             </div>
