@@ -477,9 +477,6 @@
           <sv:property sv:name="gogreen:introduction" sv:type="String">
             <sv:value>A Meatier Lorem Ipsum Generator</sv:value>
           </sv:property>
-          <sv:property sv:name="gogreen:location" sv:type="String">
-            <sv:value>DTC</sv:value>
-          </sv:property>
           <sv:property sv:name="gogreen:source" sv:type="String">
             <sv:value>https://baconipsum.com/?paras=10&amp;type=meat-and-filler&amp;start-with-lorem=1&amp;make-it-spicy=1</sv:value>
           </sv:property>
