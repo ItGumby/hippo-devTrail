@@ -1,3 +1,4 @@
+## Maven
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -8,4 +9,21 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 
+## Java
+*.class
+*.jar
+*.war
+*.ear
+# JVM crash log
+hs_err_pid*
+
+#IntelliJ
+.idea/
+*.iws
+*.ipr
+*.iml
+out/
+
+## Hippo
 storage
+
