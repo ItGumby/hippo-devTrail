@@ -477,6 +477,9 @@
           <sv:property sv:name="gogreen:introduction" sv:type="String">
             <sv:value>A Meatier Lorem Ipsum Generator</sv:value>
           </sv:property>
+          <sv:property sv:name="gogreen:location" sv:type="String">
+            <sv:value>DTC</sv:value>
+          </sv:property>
           <sv:property sv:name="gogreen:source" sv:type="String">
             <sv:value>https://baconipsum.com/?paras=10&amp;type=meat-and-filler&amp;start-with-lorem=1&amp;make-it-spicy=1</sv:value>
           </sv:property>
@@ -502,7 +505,7 @@
             <sv:value>2016-10-20T15:12:11.985-06:00</sv:value>
           </sv:property>
           <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-            <sv:value>2016-10-20T15:12:12.116-06:00</sv:value>
+            <sv:value>2016-10-24T13:26:16.870-06:00</sv:value>
           </sv:property>
           <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
             <sv:value>admin</sv:value>
@@ -551,6 +554,30 @@
             <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
             <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
             <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+          <sv:node sv:name="gogreen:hippo_mirror">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>6563694e-c679-4b94-9b25-60e914d78334</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>aeda2bcd-b21d-4ead-a2e6-c64a2ca051c8</sv:value>
+            </sv:property>
           </sv:node>
         </sv:node>
         <sv:node sv:name="bacon">
@@ -605,7 +632,7 @@
             <sv:value>2016-10-20T15:12:11.985-06:00</sv:value>
           </sv:property>
           <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-            <sv:value>2016-10-20T15:14:11.030-06:00</sv:value>
+            <sv:value>2016-10-24T13:26:25.130-06:00</sv:value>
           </sv:property>
           <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
             <sv:value>admin</sv:value>
@@ -654,6 +681,30 @@
             <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
             <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
             <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+          <sv:node sv:name="gogreen:hippo_mirror">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>6563694e-c679-4b94-9b25-60e914d78334</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>aeda2bcd-b21d-4ead-a2e6-c64a2ca051c8</sv:value>
+            </sv:property>
           </sv:node>
         </sv:node>
         <sv:node sv:name="bacon">
@@ -707,13 +758,13 @@
             <sv:value>2016-10-20T15:12:11.985-06:00</sv:value>
           </sv:property>
           <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-            <sv:value>2016-10-20T15:14:11.030-06:00</sv:value>
+            <sv:value>2016-10-24T13:26:25.130-06:00</sv:value>
           </sv:property>
           <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
             <sv:value>admin</sv:value>
           </sv:property>
           <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-            <sv:value>2016-10-20T15:15:52.162-06:00</sv:value>
+            <sv:value>2016-10-24T13:26:27.997-06:00</sv:value>
           </sv:property>
           <sv:property sv:name="hippotranslation:id" sv:type="String">
             <sv:value>5d0aa1d6-b3e5-4ac0-b668-e0cc14322a72</sv:value>
@@ -759,6 +810,30 @@
             <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
             <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
             <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+          <sv:node sv:name="gogreen:hippo_mirror">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>6563694e-c679-4b94-9b25-60e914d78334</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>aeda2bcd-b21d-4ead-a2e6-c64a2ca051c8</sv:value>
+            </sv:property>
           </sv:node>
         </sv:node>
       </sv:node>
