@@ -6,22 +6,22 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link rel="stylesheet" href="css/bootstrap.css">
-<link rel="stylesheet" href="css/font-awesome.css">
+<link rel="stylesheet" href="<@hst.webfile path="/css/bootstrap.css"/>">
+<link rel="stylesheet" href="<@hst.webfile path="/css/font-awesome.css"/>">
 
-<link href='css/style.css' rel='stylesheet' type='text/css'>
-<link href='css/responsive.css' rel='stylesheet' type='text/css'>
+<link href='<@hst.webfile path="/css/style.css"/>' rel='stylesheet' type='text/css'>
+<link href='<@hst.webfile path="/css/responsive.css"/>' rel='stylesheet' type='text/css'>
 
 <!-- Fonts -->
-<link href="fonts/open-sans.css" rel='stylesheet' type='text/css'>
-<link href="fonts/raleway.css" rel='stylesheet' type='text/css'>
+<link href="<@hst.webfile path="/fonts/open-sans.css"/>" rel='stylesheet' type='text/css'>
+<link href="<@hst.webfile path="/fonts/raleway.css"/>" rel='stylesheet' type='text/css'>
 
 <link rel="stylesheet" media="screen" type="text/css" href="<@hst.webfile path="/css/hippo-green.css"/>" />
 
-<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
-<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="<@hst.webfile path="/images/favicon.ico"/>" type="image/x-icon" />
+<link rel="shortcut icon" href="<@hst.webfile path="/images/favicon.ico"/>" type="image/x-icon" />
 
-<link rel="apple-touch-icon" href="images/apple-touch-icon.png" />
+<link rel="apple-touch-icon" href="<@hst.webfile path="/images/apple-touch-icon.png"/>" />
 
 <link rel="alternate" type="application/rss+xml" title="Hippo Go Green RSS" href="rss" />
 <!-- hst.headContributions for htmlHead -->
