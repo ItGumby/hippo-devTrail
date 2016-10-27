@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="products">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hippostd:folder</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+    <sv:value>hippotranslation:translated</sv:value>
+    <sv:value>mix:versionable</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>4b9ee88f-4fc8-45a4-9d85-cafa5036228e</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+    <sv:value>new-translated-folder</sv:value>
+    <sv:value>new-document</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:id" sv:type="String">
+    <sv:value>0bcfb807-1bfe-44ef-95c2-5f0a86bfb37f</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:locale" sv:type="String">
+    <sv:value>en</sv:value>
+  </sv:property>
+  <sv:node sv:name="security-light">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippo:named</sv:value>
+      <sv:value>mix:referenceable</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>9bcebf08-fa70-4656-aefc-c793ff71c559</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:name" sv:type="String">
+      <sv:value>security light</sv:value>
+    </sv:property>
+    <sv:node sv:name="security-light">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>3de42cbf-7e59-4118-9608-97e5c2c4ff26</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:intro" sv:type="String">
+        <sv:value>Light up your night with a solar powered, motion detected outdoor security light!</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>74.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Solar Centurian - Outdoor Security Light</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/security-light/security-light[2]</sv:value>
+        <sv:value>products/security-light/security-light[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:42:29.523-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:42:30.016-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>f2b4e94e-0b12-41a7-a4b9-1a2dcef1038a</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:descr">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;This solar powered light is a bright (over 600 lumen) Halogen Security Light that installs easily where utility wiring is impractical or expensive. A patented passive infrared motion detector is able to detect activity up to 23m/75 feet away controls the light. When activated, the Solar Centurion throws a flood light into the target area for up to 3 minutes or as long as there is movement in the area.&lt;/p&gt;
+
+&lt;p&gt;It is perfect for security lighting or convenience lighting in your yard, at your garage, around your garage, or wherever security lighting is required at night!&lt;/p&gt;
+
+&lt;p&gt;The light is replaceable at any lighting or hardware store (Sylvania 1995/ERK miniature Halogen Lamp).&lt;/p&gt;
+
+&lt;p&gt;© Green Home, Inc.&lt;br /&gt;
+&lt;a href="http://www.greenhome.com/products/yard_and_garden/outdoor_lighting/109508/"&gt;http://www.greenhome.com/products/yard_and_garden/outdoor_lighting/109508/&lt;/a&gt;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>09d38132-3037-436a-8907-5fc87fdbd663</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="security-light">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:versionable</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>58f8f374-dcb8-4e41-a91b-6ef126282e6b</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:intro" sv:type="String">
+        <sv:value>Light up your night with a solar powered, motion detected outdoor security light!</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>74.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Solar Centurian - Outdoor Security Light</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/security-light/security-light[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>unpublished</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:42:29.523-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:44:20.532-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>f2b4e94e-0b12-41a7-a4b9-1a2dcef1038a</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:descr">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;This solar powered light is a bright (over 600 lumen) Halogen Security Light that installs easily where utility wiring is impractical or expensive. A patented passive infrared motion detector is able to detect activity up to 23m/75 feet away controls the light. When activated, the Solar Centurion throws a flood light into the target area for up to 3 minutes or as long as there is movement in the area.&lt;/p&gt;
+
+&lt;p&gt;It is perfect for security lighting or convenience lighting in your yard, at your garage, around your garage, or wherever security lighting is required at night!&lt;/p&gt;
+
+&lt;p&gt;The light is replaceable at any lighting or hardware store (Sylvania 1995/ERK miniature Halogen Lamp).&lt;/p&gt;
+
+&lt;p&gt;© Green Home, Inc.&lt;br /&gt;
+&lt;a href="http://www.greenhome.com/products/yard_and_garden/outdoor_lighting/109508/"&gt;http://www.greenhome.com/products/yard_and_garden/outdoor_lighting/109508/&lt;/a&gt;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>09d38132-3037-436a-8907-5fc87fdbd663</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="security-light">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>ac0443ce-c975-4774-b20b-1c5d168ffe52</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:intro" sv:type="String">
+        <sv:value>Light up your night with a solar powered, motion detected outdoor security light!</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>74.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Solar Centurian - Outdoor Security Light</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/security-light/security-light[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:42:29.523-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:44:20.532-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:49:24.251-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>f2b4e94e-0b12-41a7-a4b9-1a2dcef1038a</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:descr">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;This solar powered light is a bright (over 600 lumen) Halogen Security Light that installs easily where utility wiring is impractical or expensive. A patented passive infrared motion detector is able to detect activity up to 23m/75 feet away controls the light. When activated, the Solar Centurion throws a flood light into the target area for up to 3 minutes or as long as there is movement in the area.&lt;/p&gt;
+
+&lt;p&gt;It is perfect for security lighting or convenience lighting in your yard, at your garage, around your garage, or wherever security lighting is required at night!&lt;/p&gt;
+
+&lt;p&gt;The light is replaceable at any lighting or hardware store (Sylvania 1995/ERK miniature Halogen Lamp).&lt;/p&gt;
+
+&lt;p&gt;© Green Home, Inc.&lt;br /&gt;
+&lt;a href="http://www.greenhome.com/products/yard_and_garden/outdoor_lighting/109508/"&gt;http://www.greenhome.com/products/yard_and_garden/outdoor_lighting/109508/&lt;/a&gt;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>09d38132-3037-436a-8907-5fc87fdbd663</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="ipad-case">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippo:named</sv:value>
+      <sv:value>mix:referenceable</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>6807f3e4-3b2e-42c2-ba97-a76133184a9c</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:name" sv:type="String">
+      <sv:value>ipad case</sv:value>
+    </sv:property>
+    <sv:node sv:name="ipad-case">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>d4454b94-0492-41ec-81d0-2dee20dd716e</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:intro" sv:type="String">
+        <sv:value>Get full protection for your phone in any wet, dirty or damp setting.The nuud case armours</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>0.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Lifeproof nüüd IPad Air Case</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/ipad-case/ipad-case[3]</sv:value>
+        <sv:value>products/ipad-case/ipad-case[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:44:43.756-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:44:43.824-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>01c7467a-a201-4597-9d2f-ccc325a587b3</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:descr">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Cupcake ipsum dolor sit amet dragée sesame snaps dragée chocolate cake. Pudding chocolate bar gingerbread ice cream cheesecake. Cookie candy liquorice. Cake cake bonbon carrot cake jelly beans. Soufflé dessert candy canes muffin croissant dragée marzipan gummi bears. Pastry chocolate bar candy canes. Fruitcake icing bear claw macaroon lemon drops donut muffin. Toffee powder cake cookie candy tart sesame snaps caramels marshmallow. Danish tart carrot cake. Sugar plum topping pie gummies marzipan halvah donut. Carrot cake marzipan dessert fruitcake brownie. Toffee jelly-o lollipop dessert. Sesame snaps ice cream topping marzipan muffin. Pudding gingerbread tootsie roll apple pie liquorice.&lt;/p&gt;
+
+&lt;p&gt;Chocolate chocolate cake sesame snaps jelly jelly-o dessert muffin halvah apple pie. Muffin dragée biscuit topping. Tart jujubes sesame snaps tiramisu. Jelly cake candy canes. Gummies jujubes wafer cotton candy lemon drops. Fruitcake chocolate macaroon. Soufflé halvah danish. Cake brownie chocolate chocolate cake cupcake dragée biscuit danish. Biscuit chocolate bar icing jujubes. Sweet roll gummies caramels muffin. Apple pie powder dragée. Dragée cotton candy marzipan brownie wafer. Caramels oat cake pie sugar plum jelly beans macaroon cotton candy. Muffin gummi bears tootsie roll bonbon toffee sesame snaps powder.&lt;/p&gt;
+
+&lt;p&gt;Danish pudding lemon drops biscuit dessert halvah jelly beans marzipan. Sugar plum dragée candy cake macaroon jelly-o topping ice cream liquorice. Tart bear claw marshmallow. Carrot cake halvah macaroon brownie pie. Pudding powder jelly beans gummies pudding cake donut. Marshmallow liquorice marzipan fruitcake cake. Dessert sweet dessert gummies. Croissant macaroon cake cupcake cake chocolate cake icing ice cream. Muffin bear claw pudding pastry fruitcake soufflé. Marzipan sugar plum chocolate cotton candy lollipop cupcake lemon drops bonbon cotton candy. Chupa chups pastry marzipan candy candy canes gingerbread croissant powder. Toffee powder halvah candy tootsie roll chocolate chocolate caramels.&lt;/p&gt;
+
+&lt;p&gt;Icing jelly beans lollipop donut biscuit. Cotton candy powder jelly-o. Macaroon halvah cake brownie dessert candy canes pudding. Pastry jelly beans sesame snaps sweet apple pie topping cookie. Muffin pudding gingerbread sweet marzipan lollipop danish fruitcake muffin. Dragée chocolate cake sesame snaps cookie. Pudding chocolate cake gummies. Lollipop chocolate apple pie donut chupa chups tootsie roll. Croissant caramels marshmallow biscuit. Candy cheesecake biscuit gingerbread cheesecake gummies candy fruitcake. Jelly-o chupa chups lollipop powder powder jelly-o. Powder chocolate bar croissant bonbon. Cake biscuit dessert. Chocolate jelly icing jelly-o danish.&lt;/p&gt;
+
+&lt;p&gt;Chocolate jujubes oat cake biscuit candy croissant muffin cookie apple pie. Cotton candy cake topping gummies apple pie tootsie roll. Lemon drops cookie chocolate cake icing chocolate bar danish tiramisu. Caramels gummi bears topping candy canes marzipan sesame snaps. Tart marzipan candy canes pastry fruitcake. Powder gingerbread lemon drops apple pie chocolate bar icing. Chocolate bar oat cake cake pudding liquorice lemon drops sweet roll. Cake pie carrot cake tart sesame snaps powder jelly-o. Cotton candy pastry muffin soufflé. Bear claw dragée biscuit gummi bears marshmallow sugar plum cake. Cake carrot cake powder fruitcake fruitcake. Sesame snaps cookie icing candy chocolate bar.&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>2ed79488-6181-4e12-9046-ed79271c464a</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="ipad-case">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:versionable</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>92d2240e-028b-4f76-9f22-419165103870</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:intro" sv:type="String">
+        <sv:value>Get full protection for your phone in any wet, dirty or damp setting.The nuud case armours</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>0.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Lifeproof nüüd IPad Air Case</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/ipad-case/ipad-case[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>unpublished</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:44:43.756-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:46:14.545-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>01c7467a-a201-4597-9d2f-ccc325a587b3</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:descr">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Cupcake ipsum dolor sit amet dragée sesame snaps dragée chocolate cake. Pudding chocolate bar gingerbread ice cream cheesecake. Cookie candy liquorice. Cake cake bonbon carrot cake jelly beans. Soufflé dessert candy canes muffin croissant dragée marzipan gummi bears. Pastry chocolate bar candy canes. Fruitcake icing bear claw macaroon lemon drops donut muffin. Toffee powder cake cookie candy tart sesame snaps caramels marshmallow. Danish tart carrot cake. Sugar plum topping pie gummies marzipan halvah donut. Carrot cake marzipan dessert fruitcake brownie. Toffee jelly-o lollipop dessert. Sesame snaps ice cream topping marzipan muffin. Pudding gingerbread tootsie roll apple pie liquorice.&lt;/p&gt;
+
+&lt;p&gt;Chocolate chocolate cake sesame snaps jelly jelly-o dessert muffin halvah apple pie. Muffin dragée biscuit topping. Tart jujubes sesame snaps tiramisu. Jelly cake candy canes. Gummies jujubes wafer cotton candy lemon drops. Fruitcake chocolate macaroon. Soufflé halvah danish. Cake brownie chocolate chocolate cake cupcake dragée biscuit danish. Biscuit chocolate bar icing jujubes. Sweet roll gummies caramels muffin. Apple pie powder dragée. Dragée cotton candy marzipan brownie wafer. Caramels oat cake pie sugar plum jelly beans macaroon cotton candy. Muffin gummi bears tootsie roll bonbon toffee sesame snaps powder.&lt;/p&gt;
+
+&lt;p&gt;Danish pudding lemon drops biscuit dessert halvah jelly beans marzipan. Sugar plum dragée candy cake macaroon jelly-o topping ice cream liquorice. Tart bear claw marshmallow. Carrot cake halvah macaroon brownie pie. Pudding powder jelly beans gummies pudding cake donut. Marshmallow liquorice marzipan fruitcake cake. Dessert sweet dessert gummies. Croissant macaroon cake cupcake cake chocolate cake icing ice cream. Muffin bear claw pudding pastry fruitcake soufflé. Marzipan sugar plum chocolate cotton candy lollipop cupcake lemon drops bonbon cotton candy. Chupa chups pastry marzipan candy candy canes gingerbread croissant powder. Toffee powder halvah candy tootsie roll chocolate chocolate caramels.&lt;/p&gt;
+
+&lt;p&gt;Icing jelly beans lollipop donut biscuit. Cotton candy powder jelly-o. Macaroon halvah cake brownie dessert candy canes pudding. Pastry jelly beans sesame snaps sweet apple pie topping cookie. Muffin pudding gingerbread sweet marzipan lollipop danish fruitcake muffin. Dragée chocolate cake sesame snaps cookie. Pudding chocolate cake gummies. Lollipop chocolate apple pie donut chupa chups tootsie roll. Croissant caramels marshmallow biscuit. Candy cheesecake biscuit gingerbread cheesecake gummies candy fruitcake. Jelly-o chupa chups lollipop powder powder jelly-o. Powder chocolate bar croissant bonbon. Cake biscuit dessert. Chocolate jelly icing jelly-o danish.&lt;/p&gt;
+
+&lt;p&gt;Chocolate jujubes oat cake biscuit candy croissant muffin cookie apple pie. Cotton candy cake topping gummies apple pie tootsie roll. Lemon drops cookie chocolate cake icing chocolate bar danish tiramisu. Caramels gummi bears topping candy canes marzipan sesame snaps. Tart marzipan candy canes pastry fruitcake. Powder gingerbread lemon drops apple pie chocolate bar icing. Chocolate bar oat cake cake pudding liquorice lemon drops sweet roll. Cake pie carrot cake tart sesame snaps powder jelly-o. Cotton candy pastry muffin soufflé. Bear claw dragée biscuit gummi bears marshmallow sugar plum cake. Cake carrot cake powder fruitcake fruitcake. Sesame snaps cookie icing candy chocolate bar.&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>2ed79488-6181-4e12-9046-ed79271c464a</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="ipad-case">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>6064e2aa-bc4b-468c-8bb1-1a47877df6f3</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:intro" sv:type="String">
+        <sv:value>Get full protection for your phone in any wet, dirty or damp setting.The nuud case armours</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>0.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Lifeproof nüüd IPad Air Case</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/ipad-case/ipad-case[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:44:43.756-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:46:14.545-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:49:21.380-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>01c7467a-a201-4597-9d2f-ccc325a587b3</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:descr">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Cupcake ipsum dolor sit amet dragée sesame snaps dragée chocolate cake. Pudding chocolate bar gingerbread ice cream cheesecake. Cookie candy liquorice. Cake cake bonbon carrot cake jelly beans. Soufflé dessert candy canes muffin croissant dragée marzipan gummi bears. Pastry chocolate bar candy canes. Fruitcake icing bear claw macaroon lemon drops donut muffin. Toffee powder cake cookie candy tart sesame snaps caramels marshmallow. Danish tart carrot cake. Sugar plum topping pie gummies marzipan halvah donut. Carrot cake marzipan dessert fruitcake brownie. Toffee jelly-o lollipop dessert. Sesame snaps ice cream topping marzipan muffin. Pudding gingerbread tootsie roll apple pie liquorice.&lt;/p&gt;
+
+&lt;p&gt;Chocolate chocolate cake sesame snaps jelly jelly-o dessert muffin halvah apple pie. Muffin dragée biscuit topping. Tart jujubes sesame snaps tiramisu. Jelly cake candy canes. Gummies jujubes wafer cotton candy lemon drops. Fruitcake chocolate macaroon. Soufflé halvah danish. Cake brownie chocolate chocolate cake cupcake dragée biscuit danish. Biscuit chocolate bar icing jujubes. Sweet roll gummies caramels muffin. Apple pie powder dragée. Dragée cotton candy marzipan brownie wafer. Caramels oat cake pie sugar plum jelly beans macaroon cotton candy. Muffin gummi bears tootsie roll bonbon toffee sesame snaps powder.&lt;/p&gt;
+
+&lt;p&gt;Danish pudding lemon drops biscuit dessert halvah jelly beans marzipan. Sugar plum dragée candy cake macaroon jelly-o topping ice cream liquorice. Tart bear claw marshmallow. Carrot cake halvah macaroon brownie pie. Pudding powder jelly beans gummies pudding cake donut. Marshmallow liquorice marzipan fruitcake cake. Dessert sweet dessert gummies. Croissant macaroon cake cupcake cake chocolate cake icing ice cream. Muffin bear claw pudding pastry fruitcake soufflé. Marzipan sugar plum chocolate cotton candy lollipop cupcake lemon drops bonbon cotton candy. Chupa chups pastry marzipan candy candy canes gingerbread croissant powder. Toffee powder halvah candy tootsie roll chocolate chocolate caramels.&lt;/p&gt;
+
+&lt;p&gt;Icing jelly beans lollipop donut biscuit. Cotton candy powder jelly-o. Macaroon halvah cake brownie dessert candy canes pudding. Pastry jelly beans sesame snaps sweet apple pie topping cookie. Muffin pudding gingerbread sweet marzipan lollipop danish fruitcake muffin. Dragée chocolate cake sesame snaps cookie. Pudding chocolate cake gummies. Lollipop chocolate apple pie donut chupa chups tootsie roll. Croissant caramels marshmallow biscuit. Candy cheesecake biscuit gingerbread cheesecake gummies candy fruitcake. Jelly-o chupa chups lollipop powder powder jelly-o. Powder chocolate bar croissant bonbon. Cake biscuit dessert. Chocolate jelly icing jelly-o danish.&lt;/p&gt;
+
+&lt;p&gt;Chocolate jujubes oat cake biscuit candy croissant muffin cookie apple pie. Cotton candy cake topping gummies apple pie tootsie roll. Lemon drops cookie chocolate cake icing chocolate bar danish tiramisu. Caramels gummi bears topping candy canes marzipan sesame snaps. Tart marzipan candy canes pastry fruitcake. Powder gingerbread lemon drops apple pie chocolate bar icing. Chocolate bar oat cake cake pudding liquorice lemon drops sweet roll. Cake pie carrot cake tart sesame snaps powder jelly-o. Cotton candy pastry muffin soufflé. Bear claw dragée biscuit gummi bears marshmallow sugar plum cake. Cake carrot cake powder fruitcake fruitcake. Sesame snaps cookie icing candy chocolate bar.&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>2ed79488-6181-4e12-9046-ed79271c464a</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="business-cards">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippo:named</sv:value>
+      <sv:value>mix:referenceable</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>fdace01a-1434-4398-8363-3ec5b869f918</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:name" sv:type="String">
+      <sv:value>business cards</sv:value>
+    </sv:property>
+    <sv:node sv:name="business-cards">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>8f0e076d-966e-49fe-91b1-b7c5538f729d</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:intro" sv:type="String">
+        <sv:value>Banana paper business cards add a unique touch to any business card. Sending a</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>85.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>BANANA PAPER BUSINESS CARDS</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/business-cards/business-cards[3]</sv:value>
+        <sv:value>products/business-cards/business-cards[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:48:10.505-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:48:10.568-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>22fb4ba6-ec60-46f7-8582-62da94086304</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:descr">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
+
+&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
+
+&lt;p&gt;Capitalise on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>f5ea145a-7a72-4bda-b79b-2b4de43f330f</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="business-cards">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:versionable</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>d69b854d-fc66-48f3-a062-8b14cc25658e</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:intro" sv:type="String">
+        <sv:value>Banana paper business cards add a unique touch to any business card. Sending a</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>85.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>BANANA PAPER BUSINESS CARDS</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/business-cards/business-cards[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>unpublished</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:48:10.505-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:48:56.136-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>22fb4ba6-ec60-46f7-8582-62da94086304</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:descr">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
+
+&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
+
+&lt;p&gt;Capitalise on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>f5ea145a-7a72-4bda-b79b-2b4de43f330f</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="business-cards">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>428e012a-9575-45d3-b1ea-e15b8604d04e</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:intro" sv:type="String">
+        <sv:value>Banana paper business cards add a unique touch to any business card. Sending a</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>85.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>BANANA PAPER BUSINESS CARDS</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/business-cards/business-cards[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:48:10.505-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:48:56.136-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2016-10-27T09:49:18.438-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>22fb4ba6-ec60-46f7-8582-62da94086304</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:descr">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
+
+&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
+
+&lt;p&gt;Capitalise on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>f5ea145a-7a72-4bda-b79b-2b4de43f330f</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+</sv:node>
