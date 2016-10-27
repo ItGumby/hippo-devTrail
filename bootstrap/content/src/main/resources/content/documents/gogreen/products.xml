@@ -293,7 +293,7 @@
         <sv:value>Get full protection for your phone in any wet, dirty or damp setting.The nuud case armours</sv:value>
       </sv:property>
       <sv:property sv:name="gogreen:price" sv:type="Double">
-        <sv:value>0.0</sv:value>
+        <sv:value>129.99</sv:value>
       </sv:property>
       <sv:property sv:name="gogreen:title" sv:type="String">
         <sv:value>Lifeproof nüüd IPad Air Case</sv:value>
@@ -316,7 +316,7 @@
         <sv:value>2016-10-27T09:44:43.756-06:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-10-27T09:44:43.824-06:00</sv:value>
+        <sv:value>2016-10-27T14:47:32.883-06:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
@@ -370,7 +370,7 @@
         <sv:value>Get full protection for your phone in any wet, dirty or damp setting.The nuud case armours</sv:value>
       </sv:property>
       <sv:property sv:name="gogreen:price" sv:type="Double">
-        <sv:value>0.0</sv:value>
+        <sv:value>129.99</sv:value>
       </sv:property>
       <sv:property sv:name="gogreen:title" sv:type="String">
         <sv:value>Lifeproof nüüd IPad Air Case</sv:value>
@@ -394,7 +394,7 @@
         <sv:value>2016-10-27T09:44:43.756-06:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-10-27T09:46:14.545-06:00</sv:value>
+        <sv:value>2016-10-27T14:47:51.120-06:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
@@ -447,7 +447,7 @@
         <sv:value>Get full protection for your phone in any wet, dirty or damp setting.The nuud case armours</sv:value>
       </sv:property>
       <sv:property sv:name="gogreen:price" sv:type="Double">
-        <sv:value>0.0</sv:value>
+        <sv:value>129.99</sv:value>
       </sv:property>
       <sv:property sv:name="gogreen:title" sv:type="String">
         <sv:value>Lifeproof nüüd IPad Air Case</sv:value>
@@ -471,13 +471,13 @@
         <sv:value>2016-10-27T09:44:43.756-06:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-10-27T09:46:14.545-06:00</sv:value>
+        <sv:value>2016-10-27T14:47:51.120-06:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-        <sv:value>2016-10-27T09:49:21.380-06:00</sv:value>
+        <sv:value>2016-10-27T14:47:53.922-06:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippotranslation:id" sv:type="String">
         <sv:value>01c7467a-a201-4597-9d2f-ccc325a587b3</sv:value>
@@ -744,6 +744,245 @@
         </sv:property>
         <sv:property sv:name="hippo:docbase" sv:type="String">
           <sv:value>f5ea145a-7a72-4bda-b79b-2b4de43f330f</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="binder">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>mix:referenceable</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>2072c229-00b3-4520-b575-666dd7e2423c</sv:value>
+    </sv:property>
+    <sv:node sv:name="binder">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>19a0336a-fdbb-4cba-b497-21ab2436c1ad</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:intro" sv:type="String">
+        <sv:value>Gag ipsum dolar sit amet trolololo facebook male.</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>12.34</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>3in. Binder-O-Rama</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/binder/binder[2]</sv:value>
+        <sv:value>products/binder/binder[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-10-27T14:49:19.108-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-10-27T14:49:19.165-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>affb89b7-81c4-4a53-8862-6d10a99c54ad</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:descr">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Lose anonymous puking rainbows students feel like a sir 9000 avengers joke phone oh stop it, you. Not Okay oboma on female grey note good guy challenge accepted. I See What You Did There elephant nother to do here one does not simply steve jobs pokeman viverra amnesia why luke top sit. In class derpina brother gag nyan cat 140% computer in hammer okay rebecca black facepalm. The avengers jackie chan hulk genius father lois captain ba dumm tss right happy too mainstream. Peter griffin happy le friend mom nap asian read loki mother. Bacon i know that feel just homer freddie mercury fun le me dummies. You Don&amp;apos;t Say? Geek avenger lol panda monday collection dad hac le derp thor. On ipsum megusta keyboard simpson portfolio search genius silent hill. Homework.&lt;/p&gt;
+
+&lt;p&gt;Monday like a boss avengers good guy feel like a sir pizza scumbag friendzoned russia peter griffin. In i know that feel donut no bad jackie chan tank dead fun pikachu. Poker face pokeman cuteness overload games lois not okay cookie monster crying challenge accepted. Le girlfriend genius genius homer final week gentlemen simpson top rebecca black luke michelle. Oboma hammer amnesia portfolio monocle star wars bart le me nyan cat i dont get it ba dumm tss. Search unlock win geek collection easter in t-rex if you know what i mean close enough. Just cat all the things freddie mercury viverra really? Elephant movies for laptop dolar creepy me gusta nother to do here unsave computer. Back morbi basic math 9000 true story sit drink super rage amet panda. Sandwich dad.&lt;/p&gt;
+
+&lt;p&gt;College keyboard luke derp t-rex avenger elephant le girlfriend charlie sheen aww yeah. Bacon students yao for pizza cookie monster gasp troll that. Amnesia not bad le derp sit 140% just avengers diablo 3 eat. Poker face michelle facebook like a boss basic math coffee dead ba dumm tss venenatis. Wodka bear final week vegan unlock facepalm read captain clinton nother to do here. Meme genius dad close enough weekend cereal le me male. Hulk humor lol pokeman i see what you did there if you know what i mean 9000 dummies steve jobs brother. Super Rage not okay food i&amp;apos;m watching u lois tank impossibru admire anonymous. Too mainstream thor bart right phone i dont get it okay iron man movies homework silent hill true story. One does not simply nyan cat homer a russia search bra drink oh stop it, you house cereal guy. Peter griffin left fun morbi gag mom loki strangers.&lt;/p&gt;
+
+&lt;p&gt;Cuteness Overload gag no college architect super rage good guy read thor fun food luke. Homer nother to do here i see what you did there basic math wodka cat all the things strangers dead derp loki grey. Michelle in avengers drink high school sister unsave female joke. Varius gasp bottom 9000 oboma genius on unlock. Asian house feel like a sir woman twitter challenge accepted oh stop it, you trolololo derpina male phone. Humor monocle not bad always aww yeah homework facepalm men party students. Happy collection facebook scumbag impossibru face final week silent hill y u no. Angry birds bear cereal guy alcohol avenger movies money dolar. A dad the avengers left cookie monster anonymous genius win mom no bad. LOL search t-rex happy le derp close enough i&amp;apos;m watching u note that dog. Finals weekend cellphone gentlemen keyboard dummies back morbi viverra. Blizzard freddie mercury one does not simply elephant megusta forever alone cool eat bra.&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>33e8ae7d-c39d-43e5-b5af-afcd926df459</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="binder">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:versionable</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>0142c487-594a-4ea8-9942-77ced37417ef</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:intro" sv:type="String">
+        <sv:value>Gag ipsum dolar sit amet trolololo facebook male.</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>12.34</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>3in. Binder-O-Rama</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/binder/binder[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>unpublished</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-10-27T14:49:19.108-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-10-27T14:50:48.417-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>affb89b7-81c4-4a53-8862-6d10a99c54ad</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:descr">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Lose anonymous puking rainbows students feel like a sir 9000 avengers joke phone oh stop it, you. Not Okay oboma on female grey note good guy challenge accepted. I See What You Did There elephant nother to do here one does not simply steve jobs pokeman viverra amnesia why luke top sit. In class derpina brother gag nyan cat 140% computer in hammer okay rebecca black facepalm. The avengers jackie chan hulk genius father lois captain ba dumm tss right happy too mainstream. Peter griffin happy le friend mom nap asian read loki mother. Bacon i know that feel just homer freddie mercury fun le me dummies. You Don&amp;apos;t Say? Geek avenger lol panda monday collection dad hac le derp thor. On ipsum megusta keyboard simpson portfolio search genius silent hill. Homework.&lt;/p&gt;
+
+&lt;p&gt;Monday like a boss avengers good guy feel like a sir pizza scumbag friendzoned russia peter griffin. In i know that feel donut no bad jackie chan tank dead fun pikachu. Poker face pokeman cuteness overload games lois not okay cookie monster crying challenge accepted. Le girlfriend genius genius homer final week gentlemen simpson top rebecca black luke michelle. Oboma hammer amnesia portfolio monocle star wars bart le me nyan cat i dont get it ba dumm tss. Search unlock win geek collection easter in t-rex if you know what i mean close enough. Just cat all the things freddie mercury viverra really? Elephant movies for laptop dolar creepy me gusta nother to do here unsave computer. Back morbi basic math 9000 true story sit drink super rage amet panda. Sandwich dad.&lt;/p&gt;
+
+&lt;p&gt;College keyboard luke derp t-rex avenger elephant le girlfriend charlie sheen aww yeah. Bacon students yao for pizza cookie monster gasp troll that. Amnesia not bad le derp sit 140% just avengers diablo 3 eat. Poker face michelle facebook like a boss basic math coffee dead ba dumm tss venenatis. Wodka bear final week vegan unlock facepalm read captain clinton nother to do here. Meme genius dad close enough weekend cereal le me male. Hulk humor lol pokeman i see what you did there if you know what i mean 9000 dummies steve jobs brother. Super Rage not okay food i&amp;apos;m watching u lois tank impossibru admire anonymous. Too mainstream thor bart right phone i dont get it okay iron man movies homework silent hill true story. One does not simply nyan cat homer a russia search bra drink oh stop it, you house cereal guy. Peter griffin left fun morbi gag mom loki strangers.&lt;/p&gt;
+
+&lt;p&gt;Cuteness Overload gag no college architect super rage good guy read thor fun food luke. Homer nother to do here i see what you did there basic math wodka cat all the things strangers dead derp loki grey. Michelle in avengers drink high school sister unsave female joke. Varius gasp bottom 9000 oboma genius on unlock. Asian house feel like a sir woman twitter challenge accepted oh stop it, you trolololo derpina male phone. Humor monocle not bad always aww yeah homework facepalm men party students. Happy collection facebook scumbag impossibru face final week silent hill y u no. Angry birds bear cereal guy alcohol avenger movies money dolar. A dad the avengers left cookie monster anonymous genius win mom no bad. LOL search t-rex happy le derp close enough i&amp;apos;m watching u note that dog. Finals weekend cellphone gentlemen keyboard dummies back morbi viverra. Blizzard freddie mercury one does not simply elephant megusta forever alone cool eat bra.&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>33e8ae7d-c39d-43e5-b5af-afcd926df459</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="binder">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>b29cac7c-b7c9-468a-87f6-d115e9030d80</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:intro" sv:type="String">
+        <sv:value>Gag ipsum dolar sit amet trolololo facebook male.</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>12.34</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>3in. Binder-O-Rama</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/binder/binder[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-10-27T14:49:19.108-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-10-27T14:50:48.417-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2016-10-27T14:50:55.058-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>affb89b7-81c4-4a53-8862-6d10a99c54ad</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:descr">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Lose anonymous puking rainbows students feel like a sir 9000 avengers joke phone oh stop it, you. Not Okay oboma on female grey note good guy challenge accepted. I See What You Did There elephant nother to do here one does not simply steve jobs pokeman viverra amnesia why luke top sit. In class derpina brother gag nyan cat 140% computer in hammer okay rebecca black facepalm. The avengers jackie chan hulk genius father lois captain ba dumm tss right happy too mainstream. Peter griffin happy le friend mom nap asian read loki mother. Bacon i know that feel just homer freddie mercury fun le me dummies. You Don&amp;apos;t Say? Geek avenger lol panda monday collection dad hac le derp thor. On ipsum megusta keyboard simpson portfolio search genius silent hill. Homework.&lt;/p&gt;
+
+&lt;p&gt;Monday like a boss avengers good guy feel like a sir pizza scumbag friendzoned russia peter griffin. In i know that feel donut no bad jackie chan tank dead fun pikachu. Poker face pokeman cuteness overload games lois not okay cookie monster crying challenge accepted. Le girlfriend genius genius homer final week gentlemen simpson top rebecca black luke michelle. Oboma hammer amnesia portfolio monocle star wars bart le me nyan cat i dont get it ba dumm tss. Search unlock win geek collection easter in t-rex if you know what i mean close enough. Just cat all the things freddie mercury viverra really? Elephant movies for laptop dolar creepy me gusta nother to do here unsave computer. Back morbi basic math 9000 true story sit drink super rage amet panda. Sandwich dad.&lt;/p&gt;
+
+&lt;p&gt;College keyboard luke derp t-rex avenger elephant le girlfriend charlie sheen aww yeah. Bacon students yao for pizza cookie monster gasp troll that. Amnesia not bad le derp sit 140% just avengers diablo 3 eat. Poker face michelle facebook like a boss basic math coffee dead ba dumm tss venenatis. Wodka bear final week vegan unlock facepalm read captain clinton nother to do here. Meme genius dad close enough weekend cereal le me male. Hulk humor lol pokeman i see what you did there if you know what i mean 9000 dummies steve jobs brother. Super Rage not okay food i&amp;apos;m watching u lois tank impossibru admire anonymous. Too mainstream thor bart right phone i dont get it okay iron man movies homework silent hill true story. One does not simply nyan cat homer a russia search bra drink oh stop it, you house cereal guy. Peter griffin left fun morbi gag mom loki strangers.&lt;/p&gt;
+
+&lt;p&gt;Cuteness Overload gag no college architect super rage good guy read thor fun food luke. Homer nother to do here i see what you did there basic math wodka cat all the things strangers dead derp loki grey. Michelle in avengers drink high school sister unsave female joke. Varius gasp bottom 9000 oboma genius on unlock. Asian house feel like a sir woman twitter challenge accepted oh stop it, you trolololo derpina male phone. Humor monocle not bad always aww yeah homework facepalm men party students. Happy collection facebook scumbag impossibru face final week silent hill y u no. Angry birds bear cereal guy alcohol avenger movies money dolar. A dad the avengers left cookie monster anonymous genius win mom no bad. LOL search t-rex happy le derp close enough i&amp;apos;m watching u note that dog. Finals weekend cellphone gentlemen keyboard dummies back morbi viverra. Blizzard freddie mercury one does not simply elephant megusta forever alone cool eat bra.&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>33e8ae7d-c39d-43e5-b5af-afcd926df459</sv:value>
         </sv:property>
         <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
         <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
