@@ -13,9 +13,9 @@
               <img src="${img}" alt="${document.title?html}" />
           </div>
       </#if>
-        <h2>${document.title}</h2>
+        <h2>${(document.title)!"missing title"}</h2>
         <div class="blog-post-body">
-            <p>${document.introduction?html}</p>
+            <#if document.introduction??><p>${document.introduction?html}</p></#if>
           <@hst.html hippohtml=document.content/>
         </div>
         <div class="blog-post-details">
