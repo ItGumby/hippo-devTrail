@@ -80,26 +80,19 @@
             });
         });
 
-        $(
-                '#comments .comment-rating > div, #document-rating')
-                .raty(
-                        {
-                            score : function() {
-                                return $(this).attr('data-score');
-                            },
-                            readOnly : true,
-                            half : true,
-                            starType : 'i'
-                        });
-        $('#rating-field')
-                .raty(
-                        {
-                            targetText : 0,
-                            target : '#rating',
-                            targetType : 'score',
-                            targetKeep : true,
-                            starType : 'i'
-                        });
+        $('#comments .comment-rating > div, #document-rating').raty({
+            score : function() { return $(this).attr('data-score'); },
+            readOnly : true,
+            half : true,
+            starType : 'i'
+        });
+        $('#rating-field').raty({
+            targetText : 0,
+            target : '#rating',
+            targetType : 'score',
+            targetKeep : true,
+            starType : 'i'
+        });
     </script>
     </@hst.headContribution>
 
